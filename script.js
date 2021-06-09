@@ -1,6 +1,6 @@
 // Creating variables
 let age = 0
-con day = ''
+const day = ''
 // Connect "Age?" button to "random" function
 document.getElementById('mybutton').addEventListener('click', checkageandday)
 // Get users age and convert it to an integer
